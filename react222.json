@@ -1,0 +1,136 @@
+
+{
+    "slider": {
+        "title": "Drum School",
+        "desc": "드럼스쿨만의 차별화된 운영철학을 이야기 합니다.",
+        "btn": "바로가기"
+    },
+    "leftInfo": {
+        "small": "CLASS",
+        "title": "드럼스쿨<br/>수강생 모집",
+        "desc": "취미반/입시반/전문반<br/>전 분야 모집!<br/>이런 분들이 들으면 좋아요~",
+        "btn": "상담받기"
+    },
+    "righttInfo": [
+        {
+            "id": 1,
+            "title": "취미반",
+            "desc": "멋있는 취미를 가지고 싶은 분들께 추천해요. 기본기부터 시작하기 때문에 드럼을 처음 치는 초보자 분들이 들으시면 좋습니다."
+        },
+        {
+            "id": 2,
+            "title": "취미반",
+            "desc": "드럼을 전공으로 하고 싶은 분들께 추천해요. 예중, 예고, 예대 입시를 다니고 싶으신 분들이 들으시면 좋습니다."
+        },
+        {
+            "id": 3,
+            "title": "전문반(프로)",
+            "desc": "프로를 지망하시는 분들께 추천해요. 취미반보다 심층적이며 프로에 준하는 내용을 배울 수 있습니다. 취미반보다 조금 더 깊게 배우고 싶으신 분들도 환영합니다!"
+        },
+        {
+            "id": 4,
+            "title": "전문반(오디션)",
+            "desc": "오디션을 보시는 분들께 추천해요. 오디션은 입시반, 전문반보다 특수한 케이스로 곡 선정부터 시작해 오디션에 대한 정보들을 알려드립니다."
+        }
+    ],
+    "imageText": {
+        "title": "강사진 프로필",
+        "desc": "드럼 스쿨의 실력 넘치는 강사님들을 소개합니다~"
+    },
+    "imageInfo": [
+        {
+            "image": "assets/img/photo01.jpg",
+            "name": "한승진 / 전문반",
+            "btn": "자세히 보기"
+        },
+        {
+            "image": "assets/img/photo02.jpg",
+            "name": "박상현 / 입시반",
+            "btn": "자세히 보기"
+        },
+        {
+            "image": "assets/img/photo03.jpg",
+            "name": "우지현 / 전문반",
+            "btn": "자세히 보기"
+        }
+    ],
+    "imgTextdesc": {
+        "title": "연습실 구경하기",
+        "desc1": "드럼 레슨이 이뤄지는 공간을 소개합니다.",
+        "desc2": "강의실 4개와 연습실 4개로 나뉘어져 직접 오셔서 예약제로 사용하실 수 있습니다."
+    },
+    "imgTextInfo": [
+        {
+            "image": "assets/img/room01.jpg",
+            "title": "강의실 A룸",
+            "desc": "Gretsch USA Custom 5pcs & Yamaha Maple Custom snare / Zildjian A Custom set"
+        },
+        {
+            "image": "assets/img/room02.jpg",
+            "title": "강의실 B룸",
+            "desc": "Gretsch New Classic 6pcs / Zildjian A Custom set"
+        },
+        {
+            "image": "assets/img/room03.jpg",
+            "title": "강의실 C룸",
+            "desc": "DrumCraft &amp; Basileia Gemstone Cymbals"
+        },
+        {
+            "image": "assets/img/room04.jpg",
+            "title": "강의실 D룸",
+            "desc": "Tama Starclassic Performer / Paiste Signature Precision Universal Set"
+        },
+        {
+            "image": "assets/img/room05.jpg",
+            "title": "연습실 1룸",
+            "desc": "Mapex Saturn 4 MH Exotic 5pcs / Paiste Signature Precision Universal Set"
+        },
+        {
+            "image": "assets/img/room06.jpg",
+            "title": "연습실 2룸",
+            "desc": "Gretsch Renown57 5pcs / Sabian AAX Set"
+        },
+        {
+            "image": "assets/img/room07.jpg",
+            "title": "연습실 3룸",
+            "desc": "Gretsch Catalina Maple 5pcs / Sabian AAX Set"
+        },
+        {
+            "image": "assets/img/room08.jpg",
+            "title": "연습실 4룸",
+            "desc": "Mapex Saturn 4 MH Exotic 6pcs / Mapex Black Panther Snare / Zildjian A Custom set"
+        }
+    ],
+    "youtubeInfo": {
+        "title": "유튜브 Drum School",
+        "desc1": "더 다양한 강의는 유튜브를 통해 제공하고 있습니다.",
+        "desc2": "구독과 좋아요! 부탁드립니다.",
+        "btn": "바로가기"
+    },
+    "reviewInfo": [
+        {
+            "review": "불과 3달전만해도 여러 원인들로 인해 자존감이 밑바닥이였던 저에게 이 드럼 클래스의 레슨은 너무 소중한 시간이었어요. 매일 마음속으로 울고싶다를 외쳤던 저였는데 이제는 조금이나마 이겨 낼 수 있을 것 같네요. 다음에 선생님 만났을 때는 많이 발전해있는 제가 되었으면 좋겠네요...",
+            "image": "assets/img/user01.png",
+            "name": "이주형",
+            "group": "전문반(오디션)",
+            "star": "assets/img/star.png",
+            "btn": "자세히보기"
+        },
+        {
+            "review": "뒤늦게 드러머의 꿈을 꾸고 고2 때 부랴부랴 입시를 시작했습니다. 늦게 시작했다는 초조함 때문에 불안이 더욱 커져갔는데 쌤께서 멘탈 관리도 잘 해주시고 잘 지도해주신 덕분에 원하는 학교에 합격하게 되었어요! ㅇㅇ쌤 정말 감사드립니다ㅠㅠㅠ",
+            "image": "assets/img/user02.png",
+            "name": "김태연",
+            "group": "입시반",
+            "star": "assets/img/star.png",
+            "btn": "자세히보기"
+        },
+        {
+            "review": "취미반이어서 반신반의 했는데 강사님이 친절하시고 제 속도에 맞춰 하나하나 알려주셔서 좋았어요. 물어보시는 것도 잘 알려주시고 취미반이니만큼 여유롭게 음악을 즐기는 것에 초점을 맞춰 주셨습니다. 보다 전문적인 내용을 배우고 싶으시다면 취미반을 하시다 심화반으로 넘어가시는 것을 추천드립니다! ㅇㅇ쌤 최고bbb",
+            "image": "assets/img/user03.png",
+            "name": "박재형",
+            "group": "취미반",
+            "star": "assets/img/star.png",
+            "btn": "자세히보기"
+        }
+    ]
+}
